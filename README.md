@@ -15,6 +15,7 @@ This is a repo linked from LeetCode to Github
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0690-employee-importance](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0690-employee-importance/) | Medium |
 | [0733-flood-fill](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -23,6 +24,7 @@ This is a repo linked from LeetCode to Github
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0690-employee-importance](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0690-employee-importance/) | Medium |
 | [0733-flood-fill](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -80,9 +82,11 @@ This is a repo linked from LeetCode to Github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 <!---LeetCode Topics End-->
