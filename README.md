@@ -5,6 +5,7 @@ This is a repo linked from LeetCode to Github
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0690-employee-importance](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0690-employee-importance/) | Medium |
@@ -12,6 +13,7 @@ This is a repo linked from LeetCode to Github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0079-word-search/) | Medium |
+| [0226-invert-binary-tree](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
@@ -23,6 +25,7 @@ This is a repo linked from LeetCode to Github
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0690-employee-importance](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0690-employee-importance/) | Medium |
@@ -98,5 +101,6 @@ This is a repo linked from LeetCode to Github
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
