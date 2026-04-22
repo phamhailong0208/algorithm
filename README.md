@@ -56,6 +56,7 @@ This is a repo linked from LeetCode to Github
 | [0733-flood-fill](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0934-shortest-bridge](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0934-shortest-bridge/) | Medium |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -106,4 +107,8 @@ This is a repo linked from LeetCode to Github
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 <!---LeetCode Topics End-->
