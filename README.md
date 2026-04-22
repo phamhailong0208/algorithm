@@ -40,6 +40,7 @@ This is a repo linked from LeetCode to Github
 | [0079-word-search](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0079-word-search/) | Medium |
 | [0383-ransom-note](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Stack
@@ -47,6 +48,7 @@ This is a repo linked from LeetCode to Github
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0735-asteroid-collision](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0735-asteroid-collision/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -113,4 +115,8 @@ This is a repo linked from LeetCode to Github
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
