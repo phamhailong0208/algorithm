@@ -46,6 +46,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0735-asteroid-collision](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0735-asteroid-collision/) | Medium |
+| [0739-daily-temperatures](https://github.com/phamhailong0208/algorithm/tree/main/0739-daily-temperatures/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Array
@@ -57,6 +58,7 @@
 | [0690-employee-importance](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0690-employee-importance/) | Medium |
 | [0733-flood-fill](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0735-asteroid-collision/) | Medium |
+| [0739-daily-temperatures](https://github.com/phamhailong0208/algorithm/tree/main/0739-daily-temperatures/) | Medium |
 | [0934-shortest-bridge](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0934-shortest-bridge/) | Medium |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -117,4 +119,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/phamhailong0208/algorithm/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
