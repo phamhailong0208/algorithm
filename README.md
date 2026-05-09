@@ -57,6 +57,7 @@
 | [0001-two-sum](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0001-two-sum/) | Easy |
 | [0079-word-search](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0495-teemo-attacking](https://github.com/phamhailong0208/algorithm/tree/main/0495-teemo-attacking/) | Easy |
 | [0690-employee-importance](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0690-employee-importance/) | Medium |
 | [0733-flood-fill](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0735-asteroid-collision/) | Medium |
@@ -87,6 +88,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0495-teemo-attacking](https://github.com/phamhailong0208/algorithm/tree/main/0495-teemo-attacking/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0735-asteroid-collision](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0735-asteroid-collision/) | Medium |
 ## Matrix
