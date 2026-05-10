@@ -58,6 +58,7 @@
 | [0001-two-sum](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0001-two-sum/) | Easy |
 | [0079-word-search](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0209-minimum-size-subarray-sum](https://github.com/phamhailong0208/algorithm/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0495-teemo-attacking](https://github.com/phamhailong0208/algorithm/tree/main/0495-teemo-attacking/) | Easy |
 | [0690-employee-importance](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0690-employee-importance/) | Medium |
 | [0733-flood-fill](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0733-flood-fill/) | Easy |
@@ -145,4 +146,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/phamhailong0208/algorithm/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/phamhailong0208/algorithm/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/phamhailong0208/algorithm/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/phamhailong0208/algorithm/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
