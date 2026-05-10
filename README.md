@@ -145,6 +145,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/phamhailong0208/algorithm/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/phamhailong0208/algorithm/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
