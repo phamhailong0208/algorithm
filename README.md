@@ -51,6 +51,7 @@
 | [0853-car-fleet](https://github.com/phamhailong0208/algorithm/tree/main/0853-car-fleet/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1381-design-a-stack-with-increment-operation](https://github.com/phamhailong0208/algorithm/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@
 | [0853-car-fleet](https://github.com/phamhailong0208/algorithm/tree/main/0853-car-fleet/) | Medium |
 | [0934-shortest-bridge](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0934-shortest-bridge/) | Medium |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
+| [1381-design-a-stack-with-increment-operation](https://github.com/phamhailong0208/algorithm/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -134,4 +136,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/phamhailong0208/algorithm/tree/main/0796-rotate-string/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1381-design-a-stack-with-increment-operation](https://github.com/phamhailong0208/algorithm/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 <!---LeetCode Topics End-->
