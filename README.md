@@ -56,6 +56,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0001-two-sum/) | Easy |
+| [0075-sort-colors](https://github.com/phamhailong0208/algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/phamhailong0208/algorithm/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -82,11 +83,13 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/phamhailong0208/algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/phamhailong0208/algorithm/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/phamhailong0208/algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0853-car-fleet](https://github.com/phamhailong0208/algorithm/tree/main/0853-car-fleet/) | Medium |
 ## Simulation
