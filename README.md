@@ -60,6 +60,7 @@
 | [0079-word-search](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/phamhailong0208/algorithm/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0268-missing-number](https://github.com/phamhailong0208/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0495-teemo-attacking](https://github.com/phamhailong0208/algorithm/tree/main/0495-teemo-attacking/) | Easy |
 | [0690-employee-importance](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0690-employee-importance/) | Medium |
 | [0733-flood-fill](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0733-flood-fill/) | Easy |
@@ -74,6 +75,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0001-two-sum/) | Easy |
+| [0268-missing-number](https://github.com/phamhailong0208/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0690-employee-importance](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0690-employee-importance/) | Medium |
 ## Counting
@@ -91,6 +93,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/phamhailong0208/algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0268-missing-number](https://github.com/phamhailong0208/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0853-car-fleet](https://github.com/phamhailong0208/algorithm/tree/main/0853-car-fleet/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -127,6 +130,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/phamhailong0208/algorithm/tree/main/0268-missing-number/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -154,6 +158,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/phamhailong0208/algorithm/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0268-missing-number](https://github.com/phamhailong0208/algorithm/tree/main/0268-missing-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,4 +167,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/phamhailong0208/algorithm/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/phamhailong0208/algorithm/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
