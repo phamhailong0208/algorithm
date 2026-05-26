@@ -62,6 +62,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/phamhailong0208/algorithm/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/phamhailong0208/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0495-teemo-attacking](https://github.com/phamhailong0208/algorithm/tree/main/0495-teemo-attacking/) | Easy |
+| [0561-array-partition](https://github.com/phamhailong0208/algorithm/tree/main/0561-array-partition/) | Easy |
 | [0622-design-circular-queue](https://github.com/phamhailong0208/algorithm/tree/main/0622-design-circular-queue/) | Medium |
 | [0690-employee-importance](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0690-employee-importance/) | Medium |
 | [0733-flood-fill](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0733-flood-fill/) | Easy |
@@ -96,6 +97,7 @@
 | [0075-sort-colors](https://github.com/phamhailong0208/algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/phamhailong0208/algorithm/tree/main/0268-missing-number/) | Easy |
+| [0561-array-partition](https://github.com/phamhailong0208/algorithm/tree/main/0561-array-partition/) | Easy |
 | [0853-car-fleet](https://github.com/phamhailong0208/algorithm/tree/main/0853-car-fleet/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -137,6 +139,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/phamhailong0208/algorithm/tree/main/0561-array-partition/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -181,4 +184,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/phamhailong0208/algorithm/tree/main/0622-design-circular-queue/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/phamhailong0208/algorithm/tree/main/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
