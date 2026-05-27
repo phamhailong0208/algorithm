@@ -16,6 +16,7 @@
 | [0547-number-of-provinces](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0690-employee-importance](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0690-employee-importance/) | Medium |
+| [0721-accounts-merge](https://github.com/phamhailong0208/algorithm/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0841-keys-and-rooms/) | Medium |
@@ -27,6 +28,7 @@
 | [0547-number-of-provinces](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0690-employee-importance](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0690-employee-importance/) | Medium |
+| [0721-accounts-merge](https://github.com/phamhailong0208/algorithm/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0841-keys-and-rooms/) | Medium |
@@ -38,6 +40,7 @@
 | [0079-word-search](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0079-word-search/) | Medium |
 | [0383-ransom-note](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0721-accounts-merge](https://github.com/phamhailong0208/algorithm/tree/main/0721-accounts-merge/) | Medium |
 | [0796-rotate-string](https://github.com/phamhailong0208/algorithm/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -65,6 +68,7 @@
 | [0561-array-partition](https://github.com/phamhailong0208/algorithm/tree/main/0561-array-partition/) | Easy |
 | [0622-design-circular-queue](https://github.com/phamhailong0208/algorithm/tree/main/0622-design-circular-queue/) | Medium |
 | [0690-employee-importance](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0690-employee-importance/) | Medium |
+| [0721-accounts-merge](https://github.com/phamhailong0208/algorithm/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/phamhailong0208/algorithm/tree/main/0739-daily-temperatures/) | Medium |
@@ -80,6 +84,7 @@
 | [0268-missing-number](https://github.com/phamhailong0208/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0690-employee-importance](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0690-employee-importance/) | Medium |
+| [0721-accounts-merge](https://github.com/phamhailong0208/algorithm/tree/main/0721-accounts-merge/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +103,7 @@
 | [0088-merge-sorted-array](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/phamhailong0208/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0561-array-partition](https://github.com/phamhailong0208/algorithm/tree/main/0561-array-partition/) | Easy |
+| [0721-accounts-merge](https://github.com/phamhailong0208/algorithm/tree/main/0721-accounts-merge/) | Medium |
 | [0853-car-fleet](https://github.com/phamhailong0208/algorithm/tree/main/0853-car-fleet/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -119,6 +125,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0721-accounts-merge](https://github.com/phamhailong0208/algorithm/tree/main/0721-accounts-merge/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
