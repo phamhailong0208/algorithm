@@ -59,6 +59,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0001-two-sum/) | Easy |
+| [0053-maximum-subarray](https://github.com/phamhailong0208/algorithm/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/phamhailong0208/algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -195,4 +196,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/phamhailong0208/algorithm/tree/main/0561-array-partition/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/phamhailong0208/algorithm/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/phamhailong0208/algorithm/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
