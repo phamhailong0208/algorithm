@@ -169,6 +169,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/phamhailong0208/algorithm/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/phamhailong0208/algorithm/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/phamhailong0208/algorithm/tree/main/0086-partition-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/phamhailong0208/algorithm/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -209,4 +210,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/phamhailong0208/algorithm/tree/main/0053-maximum-subarray/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/phamhailong0208/algorithm/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 <!---LeetCode Topics End-->
