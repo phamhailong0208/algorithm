@@ -107,6 +107,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/phamhailong0208/algorithm/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/phamhailong0208/algorithm/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/phamhailong0208/algorithm/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/phamhailong0208/algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +157,7 @@
 | ------- | ------- |
 | [0268-missing-number](https://github.com/phamhailong0208/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/phamhailong0208/algorithm/tree/main/0367-valid-perfect-square/) | Easy |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/phamhailong0208/algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -196,6 +198,7 @@
 | [0268-missing-number](https://github.com/phamhailong0208/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/phamhailong0208/algorithm/tree/main/0367-valid-perfect-square/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/phamhailong0208/algorithm/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/phamhailong0208/algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,4 +232,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/phamhailong0208/algorithm/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/phamhailong0208/algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 <!---LeetCode Topics End-->
