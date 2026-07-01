@@ -80,6 +80,7 @@
 | [0934-shortest-bridge](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0934-shortest-bridge/) | Medium |
 | [0994-rotting-oranges](https://github.com/phamhailong0208/algorithm/tree/main/0994-rotting-oranges/) | Medium |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/phamhailong0208/algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1381-design-a-stack-with-increment-operation](https://github.com/phamhailong0208/algorithm/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Hash Table
@@ -93,6 +94,7 @@
 | [0383-ransom-note](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0690-employee-importance](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0690-employee-importance/) | Medium |
 | [0721-accounts-merge](https://github.com/phamhailong0208/algorithm/tree/main/0721-accounts-merge/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/phamhailong0208/algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +110,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/phamhailong0208/algorithm/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/phamhailong0208/algorithm/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/phamhailong0208/algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/phamhailong0208/algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +121,7 @@
 | [0561-array-partition](https://github.com/phamhailong0208/algorithm/tree/main/0561-array-partition/) | Easy |
 | [0721-accounts-merge](https://github.com/phamhailong0208/algorithm/tree/main/0721-accounts-merge/) | Medium |
 | [0853-car-fleet](https://github.com/phamhailong0208/algorithm/tree/main/0853-car-fleet/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/phamhailong0208/algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,6 +203,7 @@
 | [0367-valid-perfect-square](https://github.com/phamhailong0208/algorithm/tree/main/0367-valid-perfect-square/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/phamhailong0208/algorithm/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/phamhailong0208/algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/phamhailong0208/algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
