@@ -186,6 +186,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/phamhailong0208/algorithm/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/phamhailong0208/algorithm/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/phamhailong0208/algorithm/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/phamhailong0208/algorithm/tree/main/0086-partition-list/) | Medium |
@@ -227,6 +228,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/phamhailong0208/algorithm/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/phamhailong0208/algorithm/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/phamhailong0208/algorithm/tree/main/0169-majority-element/) | Easy |
 ## Dynamic Programming
@@ -241,4 +243,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/phamhailong0208/algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/phamhailong0208/algorithm/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/phamhailong0208/algorithm/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
