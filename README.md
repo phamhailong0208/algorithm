@@ -78,6 +78,7 @@
 | [0853-car-fleet](https://github.com/phamhailong0208/algorithm/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/phamhailong0208/algorithm/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0934-shortest-bridge](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0934-shortest-bridge/) | Medium |
+| [0986-interval-list-intersections](https://github.com/phamhailong0208/algorithm/tree/main/0986-interval-list-intersections/) | Medium |
 | [0994-rotting-oranges](https://github.com/phamhailong0208/algorithm/tree/main/0994-rotting-oranges/) | Medium |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/phamhailong0208/algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -109,6 +110,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/phamhailong0208/algorithm/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/phamhailong0208/algorithm/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/phamhailong0208/algorithm/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0986-interval-list-intersections](https://github.com/phamhailong0208/algorithm/tree/main/0986-interval-list-intersections/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/phamhailong0208/algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/phamhailong0208/algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Sorting
@@ -251,4 +253,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/phamhailong0208/algorithm/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0986-interval-list-intersections](https://github.com/phamhailong0208/algorithm/tree/main/0986-interval-list-intersections/) | Medium |
 <!---LeetCode Topics End-->
