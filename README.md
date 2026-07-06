@@ -161,6 +161,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/phamhailong0208/algorithm/tree/main/0002-add-two-numbers/) | Medium |
 | [0268-missing-number](https://github.com/phamhailong0208/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/phamhailong0208/algorithm/tree/main/0367-valid-perfect-square/) | Easy |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/phamhailong0208/algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
@@ -188,6 +189,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/phamhailong0208/algorithm/tree/main/0002-add-two-numbers/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/phamhailong0208/algorithm/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/phamhailong0208/algorithm/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/phamhailong0208/algorithm/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
@@ -240,6 +242,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/phamhailong0208/algorithm/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/phamhailong0208/algorithm/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
