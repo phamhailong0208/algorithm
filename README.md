@@ -164,6 +164,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/phamhailong0208/algorithm/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/phamhailong0208/algorithm/tree/main/0007-reverse-integer/) | Medium |
 | [0268-missing-number](https://github.com/phamhailong0208/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/phamhailong0208/algorithm/tree/main/0367-valid-perfect-square/) | Easy |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/phamhailong0208/algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
