@@ -40,6 +40,7 @@
 | [0005-longest-palindromic-substring](https://github.com/phamhailong0208/algorithm/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0079-word-search](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0079-word-search/) | Medium |
+| [0125-valid-palindrome](https://github.com/phamhailong0208/algorithm/tree/main/0125-valid-palindrome/) | Easy |
 | [0383-ransom-note](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0721-accounts-merge](https://github.com/phamhailong0208/algorithm/tree/main/0721-accounts-merge/) | Medium |
@@ -109,6 +110,7 @@
 | [0075-sort-colors](https://github.com/phamhailong0208/algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0086-partition-list](https://github.com/phamhailong0208/algorithm/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/phamhailong0208/algorithm/tree/main/0125-valid-palindrome/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/phamhailong0208/algorithm/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/phamhailong0208/algorithm/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/phamhailong0208/algorithm/tree/main/0876-middle-of-the-linked-list/) | Easy |
