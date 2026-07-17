@@ -39,6 +39,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/phamhailong0208/algorithm/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/phamhailong0208/algorithm/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0012-integer-to-roman](https://github.com/phamhailong0208/algorithm/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/phamhailong0208/algorithm/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0079-word-search](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0079-word-search/) | Medium |
@@ -93,6 +94,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0001-two-sum/) | Easy |
+| [0012-integer-to-roman](https://github.com/phamhailong0208/algorithm/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/phamhailong0208/algorithm/tree/main/0013-roman-to-integer/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/phamhailong0208/algorithm/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/phamhailong0208/algorithm/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -173,6 +175,7 @@
 | [0002-add-two-numbers](https://github.com/phamhailong0208/algorithm/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/phamhailong0208/algorithm/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/phamhailong0208/algorithm/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/phamhailong0208/algorithm/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/phamhailong0208/algorithm/tree/main/0013-roman-to-integer/) | Easy |
 | [0268-missing-number](https://github.com/phamhailong0208/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/phamhailong0208/algorithm/tree/main/0367-valid-perfect-square/) | Easy |
