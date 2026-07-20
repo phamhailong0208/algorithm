@@ -66,6 +66,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/phamhailong0208/algorithm/tree/main/0011-container-with-most-water/) | Medium |
+| [0027-remove-element](https://github.com/phamhailong0208/algorithm/tree/main/0027-remove-element/) | Easy |
 | [0053-maximum-subarray](https://github.com/phamhailong0208/algorithm/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/phamhailong0208/algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0079-word-search/) | Medium |
@@ -114,6 +115,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/phamhailong0208/algorithm/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/phamhailong0208/algorithm/tree/main/0011-container-with-most-water/) | Medium |
+| [0027-remove-element](https://github.com/phamhailong0208/algorithm/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/phamhailong0208/algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0086-partition-list](https://github.com/phamhailong0208/algorithm/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/LongPhamHai123/SolvingLeetCode/tree/main/0088-merge-sorted-array/) | Easy |
