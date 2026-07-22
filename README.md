@@ -181,6 +181,7 @@
 | [0009-palindrome-number](https://github.com/phamhailong0208/algorithm/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/phamhailong0208/algorithm/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/phamhailong0208/algorithm/tree/main/0013-roman-to-integer/) | Easy |
+| [0070-climbing-stairs](https://github.com/phamhailong0208/algorithm/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/phamhailong0208/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/phamhailong0208/algorithm/tree/main/0367-valid-perfect-square/) | Easy |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/phamhailong0208/algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
@@ -261,6 +262,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/phamhailong0208/algorithm/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/phamhailong0208/algorithm/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/phamhailong0208/algorithm/tree/main/0070-climbing-stairs/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,4 +284,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0986-interval-list-intersections](https://github.com/phamhailong0208/algorithm/tree/main/0986-interval-list-intersections/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/phamhailong0208/algorithm/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
